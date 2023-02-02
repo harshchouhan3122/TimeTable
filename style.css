@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+}
+
+table tr td{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    background: #f0ebeb;
+}
+
+#col1{
+    font-weight: bold;
+    font-size: large;
+    background: #cac8c8;
+}
+
+#row1{
+    font-weight: bold;
+    font-size: large;
+    background: #cac8c8;
+}
+
+/*
+
+#dsp{
+    background-color: rgb(253, 191, 191);
+}
+
+#oe3{
+    background-color: red;
+}
+
+#oe4{
+    background-color: blue;
+}
+
+#pe1{
+    background-color: green;
+}
+
+#pe2{
+    background-color: yellowgreen;
+}
+
+#ycap{
+    background-color: aqua;
+}
+
+#fom{
+    background-color: blanchedalmond;
+}
+
+#free{
+    background-color: yellow;
+}
+
+*/
